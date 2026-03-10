@@ -8,7 +8,7 @@ const OurStory = () => {
         <section className="section-padding story-section">
             <div className="container">
                 <div className="story-map">
-                    <img src="/croatia_map_v2.png" alt="Croatia Map" />
+                    <img src="/croatia_heart_map.png" alt="Croatia Map with Korčula" />
                 </div>
                 <div className="section-subtitle">Putovanje kroz vrijeme i prostor</div>
                 <h2 className="section-title">NAŠA PRIČA</h2>
